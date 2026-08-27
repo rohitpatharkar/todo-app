@@ -31,7 +31,7 @@ A beautiful, mobile-first, and highly responsive To-Do web application designed 
 ## 🚀 Getting Started
 
 ### Option 1: Live Demo
-View the live application here: [[Insert GitHub Pages Link Here](https://rohitpatharkar.github.io/todo-app/)]
+View the live application here: [[CLICK HERE FOR TODO APP](https://rohitpatharkar.github.io/todo-app/)]
 
 ### Option 2: Run Locally
 1. Clone this repository:
