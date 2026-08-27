@@ -31,16 +31,16 @@ A beautiful, mobile-first, and highly responsive To-Do web application designed 
 ## 🚀 Getting Started
 
 ### Option 1: Live Demo
-View the live application here: [Insert GitHub Pages Link Here]
+View the live application here: [[Insert GitHub Pages Link Here](https://rohitpatharkar.github.io/todo-app/)]
 
 ### Option 2: Run Locally
 1. Clone this repository:
 ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/rohitpatharkar/todo-app.git
 ```
 2. Navigate to the project directory:
 ```bash
-   cd your-repo-name
+   cd todo-app
 ```
 3. Open the `index.html` file in any modern web browser. Alternatively, use a local server like VS Code's "Live Server" extension for the best experience.
 
@@ -70,4 +70,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-Made with ❤️ by [Your Name](https://github.com/rohitpatharkar)
+Made with ❤️ by [Rohit Patharkar](https://github.com/rohitpatharkar)
+GO CHECKED LIVE :- [todo-app](https://rohitpatharkar.github.io/todo-app/)
